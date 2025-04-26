@@ -5,6 +5,6 @@
 This is **Task 2** for the project.
 
 You can view the simulation here:  
-[🔗 TinkerCAD Link - DC Motor Simulation](https://www.tinkercad.com/things/fjYnoObYqKd-dc-motor?sharecode=F0kZ64riv1sZX1yBaPoVPYe5b09qz-vQM92rPc2bJdU)
+[🔗 TinkerCAD Link - DC Motor Simulation](https://www.tinkercad.com/things/7ghRDbNWXZY-horizon-dc-motor?sharecode=nytaZ84miRDmLJGYN4s8WZE83iSvzYbvrsfLffoJHc0)
 
 ---
